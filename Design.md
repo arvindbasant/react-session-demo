@@ -1,0 +1,1 @@
+** Design Consideration: Keep store logic of each component in separate folder to enhance refactoring**

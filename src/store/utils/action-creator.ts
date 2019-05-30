@@ -1,3 +1,5 @@
+// generic overloaded type and function to avoid creating action creator for each actions
+
 export interface Action<T extends string> {
     type: T;
   }
